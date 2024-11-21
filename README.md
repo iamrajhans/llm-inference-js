@@ -6,7 +6,7 @@ A browser with WebGPU support
 
 ### Requirement
 
-Download the gemma 2b from [here](https://www.kaggle.com/models/google/gemma/tfLite/gemma-2b-it-gpu-int4)
+Download the gemma2 2b from [here](https://www.kaggle.com/models/google/gemma-2/tfLite/gemma2-2b-it-gpu-int8)
 
 
 ### Getting Started
