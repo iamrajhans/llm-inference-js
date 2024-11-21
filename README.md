@@ -1,5 +1,9 @@
 # llm-inference-js
 
+### Prerequisite
+
+A browser with WebGPU support
+
 ### Requirement
 
 Download the gemma 2b from [here](https://www.kaggle.com/models/google/gemma/tfLite/gemma-2b-it-gpu-int4)
