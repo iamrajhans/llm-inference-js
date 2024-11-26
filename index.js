@@ -17,7 +17,7 @@
 import {
   FilesetResolver,
   LlmInference,
-} from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai";
+} from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai@0.10.19-rc.20241125";
 
 const input = document.getElementById("input");
 const output = document.getElementById("output");
